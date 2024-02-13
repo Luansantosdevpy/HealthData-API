@@ -1,0 +1,11 @@
+{
+  "name": "healthdata-api",
+  "version": "1.0.0",
+  "description": "A project for data analitics to health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luan Santos",
+  "license": "ISC"
+}
